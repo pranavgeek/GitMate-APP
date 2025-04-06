@@ -32,8 +32,8 @@ To set up the app locally, follow these steps:
 
 1. Clone the GitHub repository:
 
-git clone <your-repo-url>
-cd your-project-name
+         git clone <your-repo-url>
+         cd your-project-name
 
 3. Install dependencies:
 
